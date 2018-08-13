@@ -1,4 +1,4 @@
-h1{
+#head{
   font-family: Verdana;
   font-weight: Normal;
   font-size: 50px;
@@ -7,4 +7,34 @@ h1{
 }
 body{
   background-color: Black;
+}
+.teaser{
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+video{
+  display: block;
+  margin: 0 auto;
+}
+#subhead{
+  color: white;
+  font-family: Verdana;
+  font-weight:300;
+  font-size: 42px;
+  text-align: center;
+}
+h2{
+  color: gray;
+  font-family: Verdana;
+  font-size: 21px;
+  text-align: center;
+}
+img{
+  display: block;
+  margin: 0 auto;
+}
+p{
+  color: gray;
+  text-align: right;
 }
